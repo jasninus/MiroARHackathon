@@ -1,5 +1,5 @@
 # MiroARHackathon
-A project based on Augmented Reality to measure the size of your foot, thereby assiting users on shoe size measurement at the convenience of their handheld device.  
+A project based on Augmented Reality to measure the size of your foot, thereby assisting users on shoe size measurement at the convenience of their handheld device.  
 
 Host - Miro, London, UK
 
