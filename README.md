@@ -12,8 +12,8 @@ For a guide, consider checking out the Android Central article on the matter (no
 https://www.androidcentral.com/unknown-sources
 
 Contributors: 
-1. Jakob Asgaard
-2. Sahil Makwane 
-4. Phillip
-3. Simonas 
-5. Greta Ivan 
+1. Jakob Asgaard (https://github.com/jasninus/)
+2. Sahil Makwane (https://github.com/SMak06)
+4. Simonas Holcmann (https://github.com/hiimzimmy)
+3. Greta Ivan
+5. Phillip
